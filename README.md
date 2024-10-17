@@ -1,4 +1,4 @@
-# BIT-Resume   
+# AI Resume Builder
 https://ivory-grasshopper-757925.hostingersite.com
 
 
