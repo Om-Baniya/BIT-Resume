@@ -2,7 +2,6 @@
 https://ivory-grasshopper-757925.hostingersite.com
 
 
-
 #Landing Page
 ![Screenshot (66)](https://github.com/user-attachments/assets/f2da7ca9-56f5-4247-9158-86af3f0c2c83)
 
